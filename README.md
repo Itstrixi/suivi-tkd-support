@@ -28,4 +28,4 @@ Indique ton modèle d'iPhone, la version d'iOS et ce que tu faisais quand le pro
 - **Enfants.** L'application ne collecte aucune donnée, y compris celles des mineurs.
 - **Évolutions.** Si une future version ajoute une fonction en ligne (par exemple la synchronisation entre appareils), cette politique sera mise à jour avant sa mise à disposition.
 
-Contact : **[ton e-mail]**
+Contact : romain.insep@gmail.com
